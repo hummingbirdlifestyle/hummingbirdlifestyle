@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hummingbirdlifestyle aka Jennifer
+- 👋 Hi, I’m Jennifer
 - 👀 I’m interested in trying to figure out how this thing works LOL
 - 🌱 I’m currently learning C, and GitHub, and VS Code
 - 💞️ I’m looking to collaborate ...
