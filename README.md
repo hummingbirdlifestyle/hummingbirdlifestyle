@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jennifer
 - 👀 I’m interested in trying to figure out how this thing works LOL
-- 🌱 I’m currently learning C, and GitHub, and VS Code
+- 🌱 I’m currently learning C, Python, GitHub, and VS Code
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 - 😄 Pronouns:  She / Her
